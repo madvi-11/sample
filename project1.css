@@ -1,0 +1,51 @@
+h1{
+	text-align:center;
+	font-family:Times;
+	background-color:red;
+}
+body{
+	background-color:white;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border: 2px solid black;
+}
+p{
+	font-family:Arial;
+	font-size:16px;
+}
+h2,h3{
+	font-family:Times;
+}
+#div1{
+	background-color:blue;
+}
+#div2{
+	background-color:yellow;
+}
+table,th,td{
+	clear:both;
+	border:1px solid black;
+	border-collapse:collapse;
+	padding:10px;
+}
+th{
+	text-align:left;
+}
+table tr:nth-child(odd){
+	background-color:lightblue;
+}
+h2,h3,strong{
+	background-color:red;
+}
+figcaption{
+	text-align:center;
+}
+
+#para{
+	float:right;
+	width:90%;
+}
